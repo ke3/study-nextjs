@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Main page="about">
-        This is About Page. Let's Try!!!!!!
+        This is About Page. Let&apos;s Try!!!!!!
       </Main>
     </>
   )
